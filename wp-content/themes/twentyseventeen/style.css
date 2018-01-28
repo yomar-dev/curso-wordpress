@@ -4305,3 +4305,12 @@ p > object:only-child {
 		padding: 0;
 	}
 }
+
+
+/**
+ * CUSTOM
+ */
+
+.viajes{
+	background: url("assets/images/avion.png") no-repeat top right;
+}
