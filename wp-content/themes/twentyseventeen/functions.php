@@ -592,5 +592,12 @@ function alert_js(){
 	 * get_template_directory_uri: Decimos donde se encuentra el archivo
 	 * array: Le decimos que cargue jQuery
 	 */
-	wp_enqueue_script( 'alert_js', get_template_directory_uri('js/alert.js'), array( 'jquery' ), false, false );
+	wp_enqueue_script( 'alert_js', get_template_directory_uri().'/js/alert.js', array( 'jquery' ), false, false );
 }
+
+
+/**
+ * wp_enqueue_scripts: le decimos que se cargue cuando se carguen todos los scripts externos y los CSS.
+ * alert_js: Función que debe cargar.
+ */
+add_action('wp_enqueue_scripts', 'alert_js');
