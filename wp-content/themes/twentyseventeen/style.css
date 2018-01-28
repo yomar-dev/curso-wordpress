@@ -4311,6 +4311,6 @@ p > object:only-child {
  * CUSTOM
  */
 
-.viajes{
+.viajes, .category-viajes{
 	background: url("assets/images/avion.png") no-repeat top right;
 }
