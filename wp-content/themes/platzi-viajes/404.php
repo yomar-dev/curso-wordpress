@@ -16,10 +16,8 @@ get_header(); ?>
 				<div class="page-content">
 
 					<header class="page-header">
-						<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'storefront' ); ?></h1>
+						<h1 class="page-title"><?php esc_html_e( '¡Vaya! La página no se encuentra.', 'storefront' ); ?></h1>
 					</header><!-- .page-header -->
-
-					<p><?php esc_html_e( 'Nothing was found at this location. Try searching, or check out the links below.', 'storefront' ); ?></p>
 
 					<?php
 					echo '<section aria-label="' . esc_html__( 'Search', 'storefront' ) . '">';
