@@ -2,13 +2,15 @@
 
 
 function add_role_viajero(){
+	remove_role('viajero');
 	add_role(
 		'viajero',
 		'Viajero',
 		[
 			'read'			=> 	true,
-			'edit_post'		=> true,
-			'upload_files'	=> true
+			'edit_posts'	=> true,
+			'upload_files'	=> true,
+			'publish_posts'	=> true
 		]
 	);
 }
