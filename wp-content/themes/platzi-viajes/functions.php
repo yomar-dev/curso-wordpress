@@ -7,10 +7,11 @@ function add_role_viajero(){
 		'viajero',
 		'Viajero',
 		[
-			'read'			=> 	true,
+			'read'			=> true,
 			'edit_posts'	=> true,
 			'upload_files'	=> true,
-			'publish_posts'	=> true
+			'publish_posts'	=> true,
+			'edit_published_posts'	=> true
 		]
 	);
 }
