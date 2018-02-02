@@ -19,6 +19,8 @@ https://es.wordpress.org/plugins/wp-super-cache/
 Cookie Law Info (Avisar que nuestro sitio utiliza Cookies):
 https://es.wordpress.org/plugins/cookie-law-info/
 
+Yoast SEO:
+https://es.wordpress.org/plugins/wordpress-seo/
 
 
 
