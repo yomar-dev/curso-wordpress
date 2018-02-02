@@ -22,7 +22,8 @@ https://es.wordpress.org/plugins/cookie-law-info/
 Yoast SEO:
 https://es.wordpress.org/plugins/wordpress-seo/
 
-
+Updraft Plus:
+https://es.wordpress.org/plugins/updraftplus/
 
 
 Nota: La mayoria de estos plugins hay que descargarlos desde la página de WordPress (https://es.wordpress.org/plugins/).
