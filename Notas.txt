@@ -1,0 +1,18 @@
+Plugin Recomendados para Cache:
+
+W3 Total Cache:
+https://es.wordpress.org/plugins/w3-total-cache/
+
+WP Rocket:
+https://wp-rocket.me/
+
+Batcache:
+https://es.wordpress.org/plugins/batcache/
+
+WP Fastest Cache:
+https://es.wordpress.org/plugins/wp-fastest-cache/
+
+WP Super Cache (Recomendando en la clase)
+https://es.wordpress.org/plugins/wp-super-cache/
+
+WP Super Cache es muy fácil de configurar.
