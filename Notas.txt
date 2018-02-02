@@ -12,7 +12,15 @@ https://es.wordpress.org/plugins/batcache/
 WP Fastest Cache:
 https://es.wordpress.org/plugins/wp-fastest-cache/
 
-WP Super Cache (Recomendando en la clase)
+WP Super Cache (Recomendando en la clase, es muy fácil de configurar):
 https://es.wordpress.org/plugins/wp-super-cache/
 
-WP Super Cache es muy fácil de configurar.
+
+Cookie Law Info (Avisar que nuestro sitio utiliza Cookies):
+https://es.wordpress.org/plugins/cookie-law-info/
+
+
+
+
+
+Nota: La mayoria de estos plugins hay que descargarlos desde la página de WordPress (https://es.wordpress.org/plugins/).
