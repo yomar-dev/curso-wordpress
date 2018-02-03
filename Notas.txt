@@ -26,4 +26,7 @@ Updraft Plus:
 https://es.wordpress.org/plugins/updraftplus/
 
 
+Post Expirator:
+https://es.wordpress.org/plugins/post-expirator/
+
 Nota: La mayoria de estos plugins hay que descargarlos desde la página de WordPress (https://es.wordpress.org/plugins/).
